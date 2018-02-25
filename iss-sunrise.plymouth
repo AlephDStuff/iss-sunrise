@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=ISS Sunrise
+Description=This theme is a modification of Andre "Osku" Schmidt's Space sunrise and the Earth sunrise plymouth themes
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/iss-sunrise
+ScriptFile=/usr/share/plymouth/themes/iss-sunrise/iss-sunrise.script
+
