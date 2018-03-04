@@ -11,7 +11,7 @@ This one uses actual images from the International Space Station to create the s
 
 Place the extracted files in your home or Desktop folder.
 
-Open a terminal and open a terminal.
+Open a terminal and copy and paste the following commands:
 
 sudo cp -R iss-sunrise/ /usr/share/plymouth/themes/
 
@@ -21,7 +21,7 @@ sudo update-alternatives --config default.plymouth #here, choose the number of t
 
 sudo update-initramfs -u
 
-Reboot and ready... should be running the new theme.
+Reboot... your system should be running the new theme.
 
 ## code notes
 ## ==========
